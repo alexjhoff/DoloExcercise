@@ -34,3 +34,5 @@ Design Decisions:
 -All colors and fonts are per Zeplin specs
 
 -Optimized for all iPhone screen sizes
+
+-Unit testing for url creation as well as successful API calls with the correct payload
